@@ -15,9 +15,9 @@ https://colab.research.google.com/drive/1HGEaAh8yp85BI1iVE6_m248-4vSnLJ-D?usp=sh
 
 
 Links to download datasets used in the analysis
-Parking Tickets - https://open.toronto.ca/dataset/parking-tickets/ 
-Green P Parking - https://open.toronto.ca/dataset/green-p-parking/
-TTC Routes and Schedules - https://open.toronto.ca/dataset/ttc-routes-and-schedules/
-Toronto Demographics - https://open.toronto.ca/dataset/wellbeing-toronto-demographics-nhs-indicators/
-City Wards - https://open.toronto.ca/dataset/city-wards/
-Neighbourhoods - https://open.toronto.ca/dataset/neighbourhoods/
+1. Parking Tickets - https://open.toronto.ca/dataset/parking-tickets/ 
+2. Green P Parking - https://open.toronto.ca/dataset/green-p-parking/
+3. TTC Routes and Schedules - https://open.toronto.ca/dataset/ttc-routes-and-schedules/
+4. Toronto Demographics - https://open.toronto.ca/dataset/wellbeing-toronto-demographics-nhs-indicators/
+5. City Wards - https://open.toronto.ca/dataset/city-wards/
+6. Neighbourhoods - https://open.toronto.ca/dataset/neighbourhoods/

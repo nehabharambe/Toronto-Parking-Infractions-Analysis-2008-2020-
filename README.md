@@ -6,6 +6,9 @@ Approximately 2.8 million parking tickets are issued annually across the City of
 
 The are three major goals for the analyzing this dataset
 
-    Identify top 20 infraction codes for parking violations and revenue generation in city, wards and its relation to socio demographic profiles
-    Determine the distribution of parking tickets & revenue generated over time period (i.e. year over year changes, month over month changes, etc)
-    Identify nearest TTC stops and parking lots near the locations of top 20 infraction codes
+1. Identify top 20 infraction codes for parking violations and revenue generation in city, wards and its relation to socio demographic profiles
+2. Determine the distribution of parking tickets & revenue generated over time period (i.e. year over year changes, month over month changes, etc)
+3. Identify nearest TTC stops and parking lots near the locations of top 20 infraction codes
+
+Link to Colab notebook:
+https://colab.research.google.com/drive/1HGEaAh8yp85BI1iVE6_m248-4vSnLJ-D?usp=sharing

@@ -12,3 +12,12 @@ The are three major goals for the analyzing this dataset
 
 Link to Colab notebook:
 https://colab.research.google.com/drive/1HGEaAh8yp85BI1iVE6_m248-4vSnLJ-D?usp=sharing
+
+
+Links to download datasets used in the analysis
+Parking Tickets - https://open.toronto.ca/dataset/parking-tickets/ 
+Green P Parking - https://open.toronto.ca/dataset/green-p-parking/
+TTC Routes and Schedules - https://open.toronto.ca/dataset/ttc-routes-and-schedules/
+Toronto Demographics - https://open.toronto.ca/dataset/wellbeing-toronto-demographics-nhs-indicators/
+City Wards - https://open.toronto.ca/dataset/city-wards/
+Neighbourhoods - https://open.toronto.ca/dataset/neighbourhoods/
